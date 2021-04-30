@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @danielcy-hub
-- 👀 I’m interested in expressJS, php, angular, react, vue, and flutter
-- 🌱 I’m currently learning expressJS and flutter
-- 💞️ I’m looking to collaborate on web development (Frontend or Backend) or flutter projects
+- 👋 Hi, I’m Daniel
+- 👀 I’m interested in web development and IoT
+- 🌱 I’m currently learning expressJS, angular, and flutter 
+- 💞️ I’m looking to collaborate on web development (Frontend or Backend) or flutter projects or IoT (device, server, and apps)
 - 📫 How to reach me ==> mail to: danielcy23411004@gmail.com
 
 <!---
